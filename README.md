@@ -1,0 +1,2 @@
+# DataTypesExcerciseJava
+Based on Java
